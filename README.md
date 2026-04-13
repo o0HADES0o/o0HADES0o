@@ -1,4 +1,4 @@
-# Mustahid Ahmed Sazid
+# Mustahid Ahmed
 
 **Computer Science & Engineering Student** · BRAC University, Dhaka  
 📧 mustahid000@gmail.com ·
@@ -11,7 +11,7 @@
 
 ## About
 
-I use Python and C++, build things with React, and have spent 4+ years teaching students outside my study hours. Outside of coursework, I'm usually like taking apart some piece of hardware, overclocking hardware, or researching whatever corner of tech caught my attention this week.
+I use Python and C++, build things with React, and have spent 4+ years teaching students outside my study hours. Along my coursework, I'm usually taking apart some piece of hardware, overclocking hardware, or researching whatever corner of tech caught my attention this week.
 
 I enjoy building computers and home servers, sideloading custom OSes onto my phones, or just generally tinkering with any electronic device I can get my hands on. I like understanding how things work at a deeper level.
 
