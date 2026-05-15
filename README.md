@@ -11,7 +11,7 @@
 
 ## About
 
-I use Python and C++, build things with React, and have spent 4+ years teaching students outside my study hours. Along my coursework, I'm usually taking apart some piece of hardware, overclocking hardware, or researching whatever corner of tech caught my attention this week.
+I use Python and javascript, build things with React, and have spent 4+ years teaching students outside my study hours. Along my coursework, I'm usually taking apart some piece of hardware, overclocking hardware, or researching whatever corner of tech caught my attention this week.
 
 I enjoy building computers and home servers, sideloading custom OSes onto my phones, or just generally tinkering with any electronic device I can get my hands on. I like understanding how things work at a deeper level.
 
@@ -22,7 +22,6 @@ I enjoy building computers and home servers, sideloading custom OSes onto my pho
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB)
